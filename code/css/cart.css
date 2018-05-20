@@ -1,0 +1,25 @@
+
+.prodimg
+{
+	
+	float:left;
+	margin-top : 20px;
+	margin-left:15px;	
+	height: 140px;
+	width:140px;
+		
+}
+
+.prodbox
+{
+	
+	background-color:#E6E6E6;
+	border-width : 2px;
+	border-style:solid;
+	border-color:black;
+	height: 150px;
+}
+.text{
+	margin-left: 10px;
+		color:black;
+}

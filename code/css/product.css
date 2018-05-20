@@ -1,0 +1,50 @@
+
+
+
+
+.item {
+	
+	background-color : #E9E9E9;
+    float: left;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px 10px 0 0;
+	height : 300px;
+	width : 200px;
+	text-align: center;
+	align:middle;
+}
+.img-product{
+	height:150px;
+	width:150px;
+	
+	display: block;
+    margin: 0 auto;
+	
+	
+}
+
+span{
+    display: block;
+	margin-bottom:25px;
+}
+.Pname{
+	margin-top:5px;
+	font-size:25px;
+	color : #046D8A;
+	margin-bottom:10px;
+	font-family:Georgia;
+
+}
+
+.Cadd{
+	width:100%;
+	height:35px;
+	background-color:#C7C7C7;
+	
+	color:white;
+}
+
+.item:hover {
+    border: 2px solid black;
+}

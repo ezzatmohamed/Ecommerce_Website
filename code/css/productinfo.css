@@ -1,0 +1,50 @@
+.infoimage{
+	
+	
+	width:300px;
+	float:left;	
+}
+
+.pname{
+	
+	font-family:Georgia;
+	
+}
+
+h3{
+	font-family:Arial;
+	color:black;
+	margin-left:66%;
+}
+.addTo{
+	
+		width:250px;
+		margin-top:10%;
+		margin-left:75%;
+	height:35px;
+	background-color:#1054AD;
+	
+	color:white;
+}
+.descrip{
+	
+	background-color:#878B8C;
+	color:white;
+	text-align: center;
+	height:200px;
+	width:800px;
+}
+.Pprice{
+	font-size:20px;	
+	color:red;
+	
+	}
+	
+
+
+
+
+
+
+
+
